@@ -1,0 +1,8 @@
+{
+    "cortex-debug.armToolchainPath": "E:\\VSSTM32\\10.2020-Q4-MAJOR\\BIN",
+    "cortex-debug.openocdPath": "E:\\VSSTM32\\OPENOCD-20211118-0.11.0\\BIN\\OPENOCD.EXE",
+    "files.associations": {
+        "cstdio": "c",
+        "STDIO.H": "cpp"
+    }
+}
