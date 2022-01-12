@@ -109,6 +109,7 @@ int main(void)
 
     HAL_Delay(1000);
     HAL_Delay(1000);
+    HAL_Delay(1000);
     HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
     HAL_UART_Transmit(&huart1, (uint8_t *)str, 12, 0xFFFF);
     HAL_Delay(100);
